@@ -9,7 +9,8 @@ O objetivo deste projeto é fornecer uma ferramenta acessível e eficaz para com
 ## Como funciona? 🤔
 Acesse o link, faça sua pergunta de forma direta e aguarde a resposta!
 Além de responder sua pergunta, também mostramos as fontes, assim você pode checar também e ver como Pato Check é imparcial.
-IMPORTANTE: O Pato Check não tem acesso a informações em tempo real, por enquanto seus dados são limitados a abril de 2023. 
+
+*IMPORTANTE:* O Pato Check não tem acesso a informações em tempo real, por enquanto seus dados são limitados a abril de 2023. 
 
 ## Teste agora!
 Você pode testar o chatbot clicando [aqui](https://patocheck.streamlit.app/).
