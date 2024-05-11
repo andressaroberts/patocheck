@@ -10,8 +10,8 @@ O objetivo deste projeto é fornecer uma ferramenta acessível e eficaz para com
 Acesse o link, faça sua pergunta de forma direta e aguarde a resposta!
 Além de responder sua pergunta, também mostramos as fontes, assim você pode checar também e ver como Pato Check é imparcial.
 
-## Teste agora
-Você pode testar o chatbot clicando [aqui](#) (https://patocheck.streamlit.app/).
+## Teste agora!
+Você pode testar o chatbot clicando [aqui](https://patocheck.streamlit.app/).
 
 ## Funcionalidades Futuras
 Estamos sempre buscando melhorar nosso chatbot e implementar novas funcionalidades para torná-lo ainda mais útil e eficaz. Algumas das funcionalidades que planejamos implementar no futuro incluem:
