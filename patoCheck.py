@@ -13,7 +13,8 @@ dashboard_location = os.path.dirname(__file__)
 duck = Image.open(dashboard_location + '/pato_icon.png')
 question = Image.open(dashboard_location + '/question_icon.png')
 
-st.secrets["GOOGLE_API_KEY"]
+# Carregar a chave secreta da variável de ambiente
+GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 
 generation_config = {
