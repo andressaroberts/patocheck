@@ -9,6 +9,7 @@ O objetivo deste projeto é fornecer uma ferramenta acessível e eficaz para com
 ## Como funciona? 🤔
 Acesse o link, faça sua pergunta de forma direta e aguarde a resposta!
 Além de responder sua pergunta, também mostramos as fontes, assim você pode checar também e ver como Pato Check é imparcial.
+IMPORTANTE: O Pato Check não tem acesso a informações em tempo real, por enquanto seus dados são limitados a abril de 2023. 
 
 ## Teste agora!
 Você pode testar o chatbot clicando [aqui](https://patocheck.streamlit.app/).
@@ -18,4 +19,5 @@ Estamos sempre buscando melhorar nosso chatbot e implementar novas funcionalidad
 
 - **Reconhecimento de Imagens e Áudios:** Capacidade de verificar a veracidade de informações contidas em imagens e áudios.
 - **Opção de Reportar Respostas:** Permitir aos usuários relatar respostas que consideram inadequadas ou imprecisas, ajudando-nos a melhorar a precisão do chatbot.
+- **Melhoria das informações:** Este chatbot opera com informações atualizadas até abril de 2023. Para futuras versões será realizado treinamento com dados mais recentes para aprimorar a precisão das respostas. 
 
